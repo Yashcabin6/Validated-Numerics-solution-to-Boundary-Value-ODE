@@ -33,6 +33,8 @@ Click "Open from file" and select:
 Final_Presentation.pdf   
 Final presentation for the project
 
+[Plot for Bounds obtained for n = 20](https://www.desmos.com/calculator/lh73ioj3gy)
+
 Coefficient_Equations.jl    
 Run the cells to produce the equations obtained by equating coefficients of like powers based on the order of approximation (variable n)
 
@@ -42,4 +44,5 @@ Code for calculations of the point form estimate of the solution
 a1_bound_calculation_code.jl    
 Julia code for estimating the bounds of a1 for lower bound calculations
 
-
+/Proofs and Code Snippets   
+contains additionals relevant results
