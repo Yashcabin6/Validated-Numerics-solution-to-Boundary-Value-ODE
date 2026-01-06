@@ -6,6 +6,24 @@
 This repository contains all relevant files for the B.Tech Project titled **"Solution to Second Order ODE using Taylor Series & Interval Analysis"** by Yash Kumar and Lokendra Singh Gohil. The objective of this work is to solve the differential equation associated with the classical **brachistochrone problem** using Taylor series approximation and interval analysis techniques to compute rigorous bounds of the solution.
 
 ---
+
+Final_Presentation.pdf   
+Final presentation for the project
+
+[Plot for Bounds obtained for n = 20](https://www.desmos.com/calculator/lh73ioj3gy)
+
+Coefficient_Equations.jl    
+Run the cells to produce the equations obtained by equating coefficients of like powers based on the order of approximation (variable n)
+
+Estimate_calculator_and_Plotter.py    
+Code for calculations of the point form estimate of the solution
+
+a1_bound_calculation_code.jl    
+Julia code for estimating the bounds of a1 for lower bound calculations
+
+/Proofs and Code Snippets   
+contains additionals relevant results
+
 ## Julia Code Setup
 
 Ensure you have the following installed:
@@ -29,20 +47,3 @@ Pluto.run()
 This opens Pluto in your browser.
 
 Click "Open from file" and select:
-
-Final_Presentation.pdf   
-Final presentation for the project
-
-[Plot for Bounds obtained for n = 20](https://www.desmos.com/calculator/lh73ioj3gy)
-
-Coefficient_Equations.jl    
-Run the cells to produce the equations obtained by equating coefficients of like powers based on the order of approximation (variable n)
-
-Estimate_calculator_and_Plotter.py    
-Code for calculations of the point form estimate of the solution
-
-a1_bound_calculation_code.jl    
-Julia code for estimating the bounds of a1 for lower bound calculations
-
-/Proofs and Code Snippets   
-contains additionals relevant results
