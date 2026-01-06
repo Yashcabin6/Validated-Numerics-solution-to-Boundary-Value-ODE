@@ -12,7 +12,7 @@ Final presentation for the project
 
 [Plot for Bounds obtained for n = 20](https://www.desmos.com/calculator/lh73ioj3gy)   
 
-(The pdfs and ipynb files contain compiled results for example cases)
+(The pdfs and ipynb files contain compiled results of example cases for quick review/demonstration)
 
 Coefficient_Equations.jl    
 Run the cells to produce the equations obtained by equating coefficients of like powers based on the order of approximation (variable n)
